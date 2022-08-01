@@ -1,6 +1,6 @@
 # EPTX: a Faithful Explainer for STory-form Algebra
 
-This is a repository for the paper [EPTX (TBA)](https://aclanthology.org/2022.acl-long.305/).
+This is a repository for the paper [EPTX](https://aclanthology.org/2022.acl-long.305/).
 
 ## Prerequisites
 
